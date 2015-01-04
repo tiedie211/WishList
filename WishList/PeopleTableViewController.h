@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <FacebookSDK/FacebookSDK.h>
+#import <Parse/Parse.h>
 #import "Person.h"
 #import "Item.h"
 #import "PersonWishListViewController.h"

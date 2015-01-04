@@ -13,7 +13,7 @@
 @interface ItemViewController : UIViewController
 
 @property Item *itemToDisplay;
-@property IBOutlet UILabel *itemNameLabel;
-@property IBOutlet UITextView *itemDescriptionLabel;
+@property (weak, nonatomic) IBOutlet UILabel *itemNameLabel;
+@property (weak, nonatomic) IBOutlet UITextView *itemDescriptionLabel;
 
 @end

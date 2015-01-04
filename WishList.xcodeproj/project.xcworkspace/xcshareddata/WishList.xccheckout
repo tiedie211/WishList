@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>820E3FC5-764B-4319-AA9E-3B8386E420B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WishList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F5001878CA6A34B99686E769625495009A7E900</key>
+		<string>https://github.com/tiedie211/WishList.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WishList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F5001878CA6A34B99686E769625495009A7E900</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tiedie211/WishList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F5001878CA6A34B99686E769625495009A7E900</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F5001878CA6A34B99686E769625495009A7E900</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WishList</string>
+		</dict>
+	</array>
+</dict>
+</plist>

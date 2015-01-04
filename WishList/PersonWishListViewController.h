@@ -10,13 +10,10 @@
 #import "Person.h"
 #import "Item.h"
 
-@interface PersonWishListViewController : UIViewController <UITableViewDelegate, UITableViewDataSource> {
-    IBOutlet UITableView *itemTableView;
-    IBOutlet UILabel *listTitle;
-}
+@interface PersonWishListViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
 
-@property UITableView *itemTableView;
-@property UILabel *listTitle;
+@property (weak, nonatomic) IBOutlet UITableView *itemTableView;
+@property (weak, nonatomic) IBOutlet UILabel *listTitle;
 @property Person *personToDisplay;
 
 @end
